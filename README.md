@@ -52,7 +52,7 @@ todo-app/
 ### 1. Clone the project
 
 ```bash
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/ChanmithK/NextJs-Todo-App.git
 cd todo-app
 
 
